@@ -1,0 +1,13 @@
+html, body {
+	margin:0; 
+	padding:0; 
+	width:100%; 
+	height:100%; 
+	background-color: #5de6de;
+	background-image: linear-gradient(315deg, #5de6de 0%, #b58ecc 74%);
+}
+
+h1, p{
+	text-align: center;
+	padding-top: 1em;
+}
